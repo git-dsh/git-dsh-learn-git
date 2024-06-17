@@ -1,0 +1,8 @@
+org\example\config\MPConfig.class
+org\example\utils\FastFileUtil.class
+org\example\config\FastDfsClientConfig.class
+org\example\utils\RabbitmqUtil.class
+org\example\config\RabbitmqConfig.class
+org\example\config\ElasticSearchConfig.class
+org\example\UserApplication.class
+org\example\utils\FreemarkerUtil.class
